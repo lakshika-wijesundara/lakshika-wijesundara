@@ -17,7 +17,7 @@
 
 
 
-- 📫 How to reach me **lakshika2wijesundara@gmail.com**
+- 📫 How to reach me **lakshikawijes@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
