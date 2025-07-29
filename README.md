@@ -45,11 +45,29 @@
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <a href="https://typeorm.io/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://typeorm.io/img/logo.svg" alt="TypeORM" width="40" height="40" />
+  </a>
+  <a href="https://redux-saga.js.org/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://redux-saga.js.org/img/redux-saga-logo.png" alt="Redux Saga" width="40" height="40" />
+  </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://jestjs.io/img/jest-logo.svg" alt="Jest" width="40" height="40" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://spring.io/images/projects/spring-boot-7f5e6a37.svg" alt="Spring Boot" width="40" height="40" />
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
@@ -58,6 +76,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
 </p>
+
 
 ---
 
