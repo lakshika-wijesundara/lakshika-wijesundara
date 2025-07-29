@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=08e5da&center=true&vCenter=true&width=940&lines=+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm Lakshika and Welcome to my Profile👋 animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=08e5da&center=true&vCenter=true&width=940&lines=+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm Lakshika and Welcome to my Profile👋 " width="100%"/>
 <h1 align="center">Hi 👋, I'm Lakshika Wijesundara</h1>
 
 <h3 align="center">I'm a computer engineering undergraduate student at University of Jaffna,Sri Lanka </h3>
